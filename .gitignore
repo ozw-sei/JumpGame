@@ -18,3 +18,10 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+
+# idea file
+*.iml
+
+# emacs file
+*~
